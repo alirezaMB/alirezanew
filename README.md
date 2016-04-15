@@ -17,79 +17,13 @@
 * **Arabic lock**
 * **And more!**
 
-**Table of Contents**
-- [TeleSeed](#teleseed)
-- [Features](#features)
-- [Commands](#commands)
-	- [Admins commands](#admins-commands)
-		- [Realm creation](#realm-creation)
-		- [Group creation](#group-creation)
-		- [Adding and removing realms](#add-or-remove-realms)
-		- [Adding and removing groups](#add-or-remove-groups)
-		- [Leaving groups](#leaving)
-		- [Everything about groups](#everything-about-groups)
-		- [Setting descriptions in realm](#setting-description-in-realm)
-		- [Setting group names in realm](#setting-group-name-in-realm)
-		- [Setting rules in realm](#setting-rules-in-realm)
-		- [Locking group names/photos/flood/members in realm](#lock-groups-namefloodphotomember-in-realm)
-		- [Unlocking group names/photos/flood/members](#unlock-groups-namefloodphotomember)
-	- [Group settings in realm](#group-setting-in-realm)
-		- [Adding admins](#add-admin)
-		- [Removing admins](#remove-admin)
-		- [Admin/group listing in realm](#adminsgroup-list-in-realm)
-		- [Broadcasting](#broadcast)
-		- [Realm help](#realm-help)
-	- [Global ban commands](#global-ban-commands)
-		- [Set group owner](#set-group-owner)
-		- [Bot stats](#bot-stats)
-	- [Owner and mod commands](#owners-and-mods-commands)
-		- [Hammer](#hammer)
-		- [Locking a group's name/members/bots/arabic/flood](#group-namememberarabicfloodbots-lock)
-		- [Unlocking a group's name/members/bots/arabic/flood](#group-namememberarabicfloodbots-unlock)
-		- [Cleaning a group's modlist/rules/about/members](#group-modlistrulesaboutmember-clean)
-		- [Seting a group's rules/about](#set-groups-rulesabout)
-		- [Setting or changing a group's owner](#setting-or-changing-group-photo)
-		- [Setting or changing a group's photo](#setting-or-changing-group-photo)
-		- [Changing a group's name](#changing-group-name)
-		- [Group links](#group-link)
-		- [Promoting and demoting mods](#promote-and-demote-mods)
-		- [Resolving usernames](#resolve-username)
-		- [Flood sensitivity](#flood-sensitivity)
-		- [Group rules and about](#group-rules-and-about)
-		- [Group settings](#group-settings)
-		- [Modlist](#modlist)
-		- [Help](#help)
-		- [Owner](#owner)
-		- [Save and Get](#save-and-get)
-		- [Id](#id)
-		- [Group stats](#group-stats)
-		- [Member list](#member-list)
-		- [Group help](#group-help)
-	- [In private commands](#in-private-commands)
-		- [Hammer](#hammer)
-		- [Cleaning](#cleaning)
-		- [Setting flood sensitivity](#setting-flood-sensitivity)
-		- [Locking a group's members/name](#lock-groups-membername)
-		- [Unlocking a group's members/name](#unlock-groups-membername)
-		- [Group link](#group-link)
-		- [Changing name/rules](#change-namerulesname)
-		- [Group log](#group-log)
-		- [Join](#join)
-- [Installation](#installation)
-	- [One command](#one-command)
-	- [Realm configuration](#realm-configuration)
-- [Support and development](#support-and-development)
-- [Special thanks to:](#special-thanks-to)
-- [Our team!](#our-team)
-
-
 # Commands
 ## Admins commands
 **Only admins and sudo users can run these commands.**
 ### Group creation
 >[!/]creategroup [group name]
 >
->>[!/]creategroup SEED
+>>[!/]creategroup WaderTG
 >>>will create a group
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
@@ -97,7 +31,7 @@
 ### Realm creation
 >[!/]createrealm [realm name]
 >
->>[!/]createrealm SEED
+>>[!/]createrealm WaderTG
 >>>will create a realm
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
