@@ -239,7 +239,7 @@ Admins
 @Oo_hamed_ice_fuckeram_oO
 
 Our channels
-@WaderTGTeam
+@supergifs
 
 thankyou for all admins bot WaderTG
 ]],
